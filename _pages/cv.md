@@ -26,12 +26,12 @@ Course Work
 
 Work experience
 ======
-* Summer 2020 - Software Development Intern
+* Summer 2020 - Software Development Intern at Apple
   * Apple - Claris
   * Researched and developed cloud products
   * Supervisor: Kenji I.
 
-* 2019-2020 - Software Developer
+* 2019-2020 - Software Developer at Peelle Lab
   * Washington Univ. School of Medicine Dept. of Otolaryngology, Peelle Lab
   * Developed automatic_analysis: MATLAB software for automating functional brain MRI analysis
   * Supervisor: Dr. Jonathan Peelle
