@@ -11,22 +11,31 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.A. PNP - Neuroscience (minor CS), Washington University in St. Louis, 2020
+* M.S. in Computer Science, NYU Tandon School of Engineering, 2022 (expected)
+
+  
+Course Work
+======
+* Visualization for Machine Learning
+  * D3.js
+* Machine Learning
+  * From-scratch implementations of ML algorithms
+  * Comparison and analysis of ML algorithms and their use cases
+* Design and analysis of algorithms
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2020 - Software Development Intern
+  * Apple - Claris
+  * Researched and developed cloud products
+  * Supervisor: Kenji I.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* 2019-2020 - Software Developer
+  * Washington Univ. School of Medicine Dept. of Otolaryngology, Peelle Lab
+  * Developed automatic_analysis: MATLAB software for automating functional brain MRI analysis
+  * Supervisor: Dr. Jonathan Peelle
+<!-- 
 Skills
 ======
 * Skill 1
@@ -56,4 +65,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
