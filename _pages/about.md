@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a currently a M.S. Computer Science student at the NYU Tandon School of Engineering. I am focusing on Machine learning and finding projects that do social good. 
+I am a M.S. Computer Science student at the NYU Tandon School of Engineering. I am focusing on Machine learning and finding projects that do social good. 
 
 I am excited to be joining Amazon this summer as a SDE Intern in the Seattle/Bellevue location and will return to Brooklyn in Fall 2021 to continue my M.S. program.
 
