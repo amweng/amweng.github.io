@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Andrew Weng"
 title_separator          : "-"
 name                     : &name "Andrew Weng"
-description              : &description "MS Computer Science student at NYU"
+description              : &description "M.S. Computer Science, NYU"
 url                      : https://amweng.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "amweng/amweng.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Andrew Weng"
   avatar           : "profile.png"
-  bio              : "MS Computer Science at NYU"
-  location         : "Brooklyn NY, Bay Area CA"
-  employer         :
+  bio              : "M.S. Computer Science, NYU"
+  location         : "Brooklyn NY / SF Bay CA"
+  employer         : 
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "andrewweng@nyu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
