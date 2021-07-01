@@ -26,12 +26,14 @@ Course Work
 
 Work experience
 ======
-* Summer 2020 - Software Development Intern at Apple
-  * Apple - Claris
-  * Researched and developed cloud products
-  * Supervisor: Kenji I.
+* Summer 2021: SDE I Intern - Business Data Technologies, Amazon.com
+  * Working on leveraging ML algorithms to optimize queries on very large datasets.
+
+* Summer 2020: Software Development Intern at Apple Inc.
+  * Claris International
+  * Proposed and tested changes to cloud products that were ultimately implemented for production
 
 * 2019-2020 - Software Developer at Peelle Lab
   * Washington Univ. School of Medicine Dept. of Otolaryngology, Peelle Lab
   * Developed automatic_analysis: MATLAB software for automating functional brain MRI analysis
-  * Supervisor: Dr. Jonathan Peelle
+  * Planned and lead development of a sentence-prediction and word usage database
