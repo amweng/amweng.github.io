@@ -15,7 +15,7 @@ I am at Amazon this summer as a SDE I Intern in the Business Data Technologies o
 Some things I am thinking about right now are:
 ------
 
-1. Streaming Algorithms
+1. Streaming Algorithms: https://en.wikipedia.org/wiki/Streaming_algorithm
  
 
 
