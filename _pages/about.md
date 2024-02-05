@@ -8,10 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently an Applied Scientist at AWS DynamoDB. Check out my Linkedin! 
+I'm currently an Applied Scientist at AWS DynamoDB working on some really cool stuff! You can reach me via LinkedIn (link is on the left).
 
 ------
-
-
-
-
