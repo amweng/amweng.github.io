@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year M.S. Computer Science student at NYU and spend most of my time in the big data space. I'll be in Seattle from May onwards @Amazon.
+I'm currently an Applied Scientist at AWS DynamoDB. Check out my Linkedin! 
 
 ------
 
