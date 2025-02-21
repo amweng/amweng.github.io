@@ -26,8 +26,8 @@ Work experience
 ======
 
 * Applied Scientist, Amazon - Alexa (Current)
-* Applied Scientist, Amazon - AWS
-* Software Development Engineer, Amazon - AWS
+* Applied Scientist, Amazon - AWS DynamoDB
+* Software Development Engineer, Amazon - AWS DynamoDB
 * Software Development Engineer, Amazon - Business Data Technology
 * Graduate Teaching Assistant, New York University
 * Software Development Engineer Intern, Amazon - Business Data Technology
