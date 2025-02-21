@@ -1,10 +1,10 @@
 ---
 layout: archive
-title: "Resume"
-permalink: /resume/
+title: "work"
+permalink: /work/
 author_profile: true
 redirect_from:
-  - /resume
+  - /work
 ---
 
 {% include base_path %}
@@ -25,7 +25,8 @@ Education
 Work experience
 ======
 
-* Applied Scientist, Amazon - AWS DynamoDB (Current)
+* Applied Scientist, Amazon - Alexa
+* Applied Scientist, Amazon - AWS DynamoDB 
 * Software Development Engineer, Amazon - AWS DynamoDB
 * Software Development Engineer, Amazon - Business Data Technologhy
 * Graduate Teaching Assistant, New York University
